@@ -51,29 +51,4 @@ The project structure follows a standard Java package structure:
 - `resources/com/snakes`: Contains the resources used in game.
 - `lib`: Constains the javafx files.
 
-## Contributing
-
-We welcome contributions! If you'd like to contribute to the project, please follow these guidelines:
-
-1. Fork the repository.
-2. Create a new branch for your feature:
-
-   ```bash
-   git checkout -b feature/new-feature
-   ```
-
-3. Make your changes and commit:
-
-   ```bash
-   git commit -m 'Add new feature'
-   ```
-
-4. Push your changes to your fork:
-
-   ```bash
-   git push origin feature/new-feature
-   ```
-
-5. Open a pull request.
-
 Thank you for your interest in our Snake Game project! Have fun playing! 🐍🎮
